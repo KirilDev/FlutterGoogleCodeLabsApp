@@ -1,14 +1,14 @@
 # Hey there!
 
-Upload my first finally created Flutter add.
+Upload my first finally created Flutter app.
 
-Just try to create by my own the ui from Flutter docs
+Just try to create on my own the ui from Flutter docs
 
 
 How it looks at Flutter Docs Website:
-![]("screen2.jpg")
+![]("https://github.com/KirilDev/flutter-simple-app/blob/main/screen2.jpg")
 
 
 And what I created:
 
-![]("screen1.jpg")
+![]("https://github.com/KirilDev/flutter-simple-app/blob/main/screen1.jpg")
